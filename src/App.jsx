@@ -196,14 +196,11 @@ function App() {
                 <div className="skill-bar"><span>CSS</span><div className="bar"><div className="fill" style={{width:'85%'}}></div></div></div>
                 <div className="skill-bar"><span>Node.js</span><div className="bar"><div className="fill" style={{width:'80%'}}></div></div></div>
                 <div className="skill-bar"><span>TypeScript</span><div className="bar"><div className="fill" style={{width:'75%'}}></div></div></div>
-                <div className="skill-bar"><span>AI/ML</span><div className="bar"><div className="fill" style={{width:'85%'}}></div></div></div>
-                <div className="skill-bar"><span>MERN Stack</span><div className="bar"><div className="fill" style={{width:'90%'}}></div></div></div>
               </div>
           </section>
           <div className="social-links" style={{textAlign: 'center', margin: '2rem 0'}}>
-            <a href="https://github.com/" target="_blank" rel="noopener" aria-label="GitHub"><i className="fab fa-github"></i>GitHub</a>
-            <a href="https://linkedin.com/" target="_blank" rel="noopener" aria-label="LinkedIn"><i className="fab fa-linkedin"></i>LinkedIn</a>
-            <a href="https://twitter.com/" target="_blank" rel="noopener" aria-label="Twitter"><i className="fab fa-twitter"></i>Twitter</a>
+            <a href="www.linkedin.com/in/sankettmishra" target="_blank" rel="noopener" aria-label="LinkedIn"><i className="fab fa-linkedin"></i>LinkedIn</a>
+            <a href="https://x.com/Mishra25Sanket" target="_blank" rel="noopener" aria-label="Twitter"><i className="fab fa-twitter"></i>Twitter</a>
           </div>
         </main>
       </div>
