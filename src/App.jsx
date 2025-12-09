@@ -149,7 +149,7 @@ function App() {
             <a href="#education">Education</a>
             <a href="#projects">Projects</a>
             <a href="#skills">Skills</a>
-            <a href="#certification">Certifications</a>
+            <a href="#certifications">Certifications</a>
             <a href="#achievements">Achievements</a>
           </nav>
 
