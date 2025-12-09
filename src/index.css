@@ -5,7 +5,11 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
+<<<<<<< HEAD
   background-color: #0f172a; /* Match your deep blue theme */
+=======
+  background-color: #242424;
+>>>>>>> 7f3c2b48fd4b18f66078d4af43f6c1fbba1aff7f
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -13,6 +17,7 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+<<<<<<< HEAD
 /* Reset Body so it doesn't force center alignment */
 body {
   margin: 0;
@@ -22,6 +27,8 @@ body {
   display: block; /* CHANGED from flex */
 }
 
+=======
+>>>>>>> 7f3c2b48fd4b18f66078d4af43f6c1fbba1aff7f
 a {
   font-weight: 500;
   color: #646cff;
@@ -31,6 +38,17 @@ a:hover {
   color: #535bf2;
 }
 
+<<<<<<< HEAD
+=======
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+>>>>>>> 7f3c2b48fd4b18f66078d4af43f6c1fbba1aff7f
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
@@ -55,8 +73,23 @@ button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
 
+<<<<<<< HEAD
 /* Remove the white background override so your dark theme stays */
 @media (prefers-color-scheme: light) {
   /* You can keep this empty if you want to force dark mode, 
      or customize light mode colors here */
 }
+=======
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+}
+>>>>>>> 7f3c2b48fd4b18f66078d4af43f6c1fbba1aff7f
