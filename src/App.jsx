@@ -173,7 +173,7 @@ function App() {
               </div>
             </div>
             
-            <a href="/Sanket_Mishra.pdf" className="resume-btn" download>Download Resume</a>
+            <a href="https://drive.google.com/file/d/1ckDaVqTMweDQ5XjQ3voLwKzohz0kDDD1/view?usp=sharing" className="resume-btn" download>Download Resume</a>
           </div>
         </header>
 
