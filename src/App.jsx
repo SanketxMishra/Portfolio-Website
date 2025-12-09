@@ -149,7 +149,7 @@ function App() {
             <a href="#education">Education</a>
             <a href="#projects">Projects</a>
             <a href="#skills">Skills</a>
-            <a href="#certifications">Certs</a>
+            <a href="#certification">Certifications</a>
             <a href="#achievements">Achievements</a>
           </nav>
 
@@ -265,10 +265,10 @@ function App() {
 
           <div className="two-column-layout">
             <section id="certifications" className="section-card glass-card fade-in">
-              <h2>Certifications</h2>
+              <h2>certifications</h2>
               <ul className="simple-list">
-                <li><strong>Dataiku:</strong> Core Designer Cert</li>
-                <li><strong>Dataiku:</strong> Core Developer Cert</li>
+                <li><strong>Dataiku:</strong> Core Designer Certification</li>
+                <li><strong>Dataiku:</strong> Core Developer Certification</li>
               </ul>
             </section>
 
