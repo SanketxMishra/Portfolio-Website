@@ -194,7 +194,7 @@ function App() {
                   <span className="timeline-date">Sept. 2022 - Aug 2026</span>
                 </div>
                 <div className="timeline-body">
-                  <span className="timeline-degree">BS in Data Science and Applications</span>
+                  <span className="timeline-degree">BS in Data Science and Applications </span>
                   <span className="timeline-minor">Minor in Economics and Finance</span>
                 </div>
               </div>
