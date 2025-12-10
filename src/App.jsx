@@ -265,7 +265,7 @@ function App() {
 
           <div className="two-column-layout">
             <section id="certifications" className="section-card glass-card fade-in">
-              <h2>certifications</h2>
+              <h2>Certifications</h2>
               <ul className="simple-list">
                 <li><strong>Dataiku:</strong> Core Designer Certification</li>
                 <li><strong>Dataiku:</strong> Core Developer Certification</li>
